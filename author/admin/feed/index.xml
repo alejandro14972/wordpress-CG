@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Colegio WordPress</title>
+	<atom:link href="https://wordpresspruebacg.netlify.app/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wordpresspruebacg.netlify.app</link>
+	<description>Sitio de educación</description>
+	<lastBuildDate>Mon, 25 Sep 2023 18:58:50 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Tutoría a estudiantes</title>
+		<link>https://wordpresspruebacg.netlify.app/2023/09/25/tutoria-a-estudiantes/</link>
+					<comments>https://wordpresspruebacg.netlify.app/2023/09/25/tutoria-a-estudiantes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2023 16:06:09 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Talleres]]></category>
+		<guid isPermaLink="false">https://wordpresspruebacg.netlify.app/?p=28</guid>
+
+					<description><![CDATA[Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal <a href="https://wordpresspruebacg.netlify.app/2023/09/25/tutoria-a-estudiantes/" class="read-more">Leer más</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo «Contenido aquí, contenido aquí». Estos textos hacen parecerlo un español que se puede leer. Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de «Lorem Ipsum» va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito (por ejemplo insertándole humor y cosas por el estilo).</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wordpresspruebacg.netlify.app/2023/09/25/tutoria-a-estudiantes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pruebas de estudio</title>
+		<link>https://wordpresspruebacg.netlify.app/2023/09/25/pruebas-de-estudio/</link>
+					<comments>https://wordpresspruebacg.netlify.app/2023/09/25/pruebas-de-estudio/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2023 16:04:45 +0000</pubDate>
+				<category><![CDATA[Noticias]]></category>
+		<category><![CDATA[Pruebas]]></category>
+		<guid isPermaLink="false">https://wordpresspruebacg.netlify.app/?p=25</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia magna nec fringilla consectetur. Vestibulum faucibus ligula quis tempor facilisis. Donec congue risus vitae enim pretium, in maximus sapien feugiat. Aenean lacinia porttitor elit, id scelerisque nunc faucibus quis. Proin <a href="https://wordpresspruebacg.netlify.app/2023/09/25/pruebas-de-estudio/" class="read-more">Leer más</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia magna nec fringilla consectetur. Vestibulum faucibus ligula quis tempor facilisis. Donec congue risus vitae enim pretium, in maximus sapien feugiat. Aenean lacinia porttitor elit, id scelerisque nunc faucibus quis. Proin id tincidunt neque. Donec in facilisis nisi. Donec feugiat eros sodales, fringilla odio et, vestibulum neque. Sed accumsan sem eget libero imperdiet ultricies. Integer quis nulla urna. Pellentesque tristique lorem non mauris mattis ullamcorper id eu felis. Sed eget consectetur urna. Morbi id facilisis nunc, vehicula molestie nisl. Donec ultrices libero sit amet erat volutpat, at tincidunt augue tincidunt. Proin consectetur nisl justo, in pulvinar urna lacinia nec. Nam condimentum, erat eget iaculis pellentesque, velit risus bibendum nisi, non convallis purus tellus sit amet arcu.</p>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet felis nec lacus dignissim rutrum id nec felis. Proin vitae luctus lectus, eget tristique metus. Pellentesque egestas nulla ut ipsum posuere semper non porta ex. Nulla luctus egestas sem sed pellentesque. Pellentesque condimentum nisi at dui egestas, nec rhoncus dolor tristique. Nunc venenatis rhoncus tristique. Fusce finibus est ac nisl feugiat, bibendum malesuada ligula venenatis. Proin massa lorem, euismod a urna eu, scelerisque scelerisque libero. Praesent mi tellus, dictum sed condimentum eu, dictum et magna.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wordpresspruebacg.netlify.app/2023/09/25/pruebas-de-estudio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Taller de coloreado para niños</title>
+		<link>https://wordpresspruebacg.netlify.app/2023/09/25/taller-de-coloreado-para-ninos/</link>
+					<comments>https://wordpresspruebacg.netlify.app/2023/09/25/taller-de-coloreado-para-ninos/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2023 16:03:32 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Talleres]]></category>
+		<guid isPermaLink="false">https://wordpresspruebacg.netlify.app/?p=22</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia magna nec fringilla consectetur. Vestibulum faucibus ligula quis tempor facilisis. Donec congue risus vitae enim pretium, in maximus sapien feugiat. Aenean lacinia porttitor elit, id scelerisque nunc faucibus quis. Proin <a href="https://wordpresspruebacg.netlify.app/2023/09/25/taller-de-coloreado-para-ninos/" class="read-more">Leer más</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia magna nec fringilla consectetur. Vestibulum faucibus ligula quis tempor facilisis. Donec congue risus vitae enim pretium, in maximus sapien feugiat. Aenean lacinia porttitor elit, id scelerisque nunc faucibus quis. Proin id tincidunt neque. Donec in facilisis nisi. Donec feugiat eros sodales, fringilla odio et, vestibulum neque. Sed accumsan sem eget libero imperdiet ultricies. Integer quis nulla urna. Pellentesque tristique lorem non mauris mattis ullamcorper id eu felis. Sed eget consectetur urna. Morbi id facilisis nunc, vehicula molestie nisl. Donec ultrices libero sit amet erat volutpat, at tincidunt augue tincidunt. Proin consectetur nisl justo, in pulvinar urna lacinia nec. Nam condimentum, erat eget iaculis pellentesque, velit risus bibendum nisi, non convallis purus tellus sit amet arcu.</p>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet felis nec lacus dignissim rutrum id nec felis. Proin vitae luctus lectus, eget tristique metus. Pellentesque egestas nulla ut ipsum posuere semper non porta ex. Nulla luctus egestas sem sed pellentesque. Pellentesque condimentum nisi at dui egestas, nec rhoncus dolor tristique. Nunc venenatis rhoncus tristique. Fusce finibus est ac nisl feugiat, bibendum malesuada ligula venenatis. Proin massa lorem, euismod a urna eu, scelerisque scelerisque libero. Praesent mi tellus, dictum sed condimentum eu, dictum et magna.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wordpresspruebacg.netlify.app/2023/09/25/taller-de-coloreado-para-ninos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Taller de compresión de lectura</title>
+		<link>https://wordpresspruebacg.netlify.app/2023/09/25/hola-mundo/</link>
+					<comments>https://wordpresspruebacg.netlify.app/2023/09/25/hola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2023 15:33:32 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Talleres]]></category>
+		<guid isPermaLink="false">https://wordpresspruebacg.netlify.app/?p=1</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia magna nec fringilla consectetur. Vestibulum faucibus ligula quis tempor facilisis. Donec congue risus vitae enim pretium, in maximus sapien feugiat. Aenean lacinia porttitor elit, id scelerisque nunc faucibus quis. Proin <a href="https://wordpresspruebacg.netlify.app/2023/09/25/hola-mundo/" class="read-more">Leer más</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia magna nec fringilla consectetur. Vestibulum faucibus ligula quis tempor facilisis. Donec congue risus vitae enim pretium, in maximus sapien feugiat. Aenean lacinia porttitor elit, id scelerisque nunc faucibus quis. Proin id tincidunt neque. Donec in facilisis nisi. Donec feugiat eros sodales, fringilla odio et, vestibulum neque. Sed accumsan sem eget libero imperdiet ultricies. Integer quis nulla urna. Pellentesque tristique lorem non mauris mattis ullamcorper id eu felis. Sed eget consectetur urna. Morbi id facilisis nunc, vehicula molestie nisl. Donec ultrices libero sit amet erat volutpat, at tincidunt augue tincidunt. Proin consectetur nisl justo, in pulvinar urna lacinia nec. Nam condimentum, erat eget iaculis pellentesque, velit risus bibendum nisi, non convallis purus tellus sit amet arcu.</p>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet felis nec lacus dignissim rutrum id nec felis. Proin vitae luctus lectus, eget tristique metus. Pellentesque egestas nulla ut ipsum posuere semper non porta ex. Nulla luctus egestas sem sed pellentesque. Pellentesque condimentum nisi at dui egestas, nec rhoncus dolor tristique. Nunc venenatis rhoncus tristique. Fusce finibus est ac nisl feugiat, bibendum malesuada ligula venenatis. Proin massa lorem, euismod a urna eu, scelerisque scelerisque libero. Praesent mi tellus, dictum sed condimentum eu, dictum et magna.</p>
+
+
+
+<p>n tempus neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+
+
+
+<p>Nam non mi et tellus dictum venenatis. Nullam feugiat sapien mi, sit amet ullamcorper urna luctus id. Nunc ornare neque et vulputate placerat. Vestibulum vitae turpis in augue viverra eleifend quis non lacus. Vestibulum cursus sapien sed nibh viverra pretium. Praesent vel tellus ipsum. Donec sit amet lectus rhoncus, placerat neque a, tincidunt mauris. Aliquam rutrum tincidunt est vel elementum. In fringilla tortor ex, sit amet mattis velit mollis id. Phasellus ante justo, viverra nec quam ut, dictum congue massa. Pellentesque vestibulum pellentesque hendrerit. Nam vestibulum convallis eros sit amet cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc efficitur felis vitae ipsum posuere suscipit.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1280" height="961" src="https://wordpresspruebacg.netlify.app/wp-content/uploads/2023/09/open-book-g23704d4b4_1280.jpg" alt="" class="wp-image-19"/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wordpresspruebacg.netlify.app/2023/09/25/hola-mundo/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
